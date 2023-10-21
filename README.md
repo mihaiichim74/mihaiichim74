@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @mihaiichim74
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hello there 👋🏾👋🏾
 
-<!---
-mihaiichim74/mihaiichim74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Mihai! I am an software engineer who is passionate about creating technology to elevate people.
+
+
+##### You can find me around on the web 🌎:
+
+### Experiences
+
+| Languages     | OS/Software     |                                                                                                                                                   
+| ---           | ---             |                                                                                                                                                   
+| PHP           | CentOS          | 
+| Python        | Debian/Ubuntu   |
+| Swift         | Windows         | 
+| Java          | MacOSX          | 
+| JavaScript    | MySQL / MariaDB |
+| React         |                 |
+| NextJS        |                 |
+| HTML/CSS      |                 |
+| Delphi        |                 |
+
+### Contact
+- **Website**ㅤ ㅤ: ㅤ(https://mihai.ichim.eu/)
+- **Email**ㅤㅤㅤ:mihai@ichim.eu
+
