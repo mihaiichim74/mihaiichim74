@@ -21,5 +21,5 @@ Hi, I'm Mihai! I am an software engineer who is passionate about creating techno
 
 ### Contact
 - **Website**ㅤ ㅤ: ㅤ(https://mihai.ichim.eu/)
-- **Email**ㅤㅤㅤ:mihai@ichim.eu
+- **Email** ㅤㅤㅤ: mihai@ichim.eu
 
