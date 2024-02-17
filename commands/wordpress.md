@@ -45,5 +45,4 @@ Wordpress CLI :
 * Update uptions : `wp option update home 'http://example.com'`
 * Search and replace in db : `wp search-replace 'example.dev' 'example.com' --skip-columns=guid`
 * Theme install : `wp theme install twentytwentyone --activate`
-
-
+* Delete all products : `wp post list --field=ID --post_type=product --posts_per_page=10000 | xargs wp post delete --force`
