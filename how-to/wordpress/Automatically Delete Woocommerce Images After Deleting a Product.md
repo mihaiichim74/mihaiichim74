@@ -19,7 +19,13 @@ function delete_product_images( $post_id ) {
 
     if( !empty( $image_galleries_id ) ) {
         foreach( $image_galleries_id as $single_image_id ) {
+            $attachment_path = get_attached_file( $single_image_id );
+
+            //Delete attachment from database only, not file
             wp_delete_post( $single_image_id );
+
+            //Delete attachment file from disk
+            $delete_file = unlink($attachment_path);
         }
     }
 }
